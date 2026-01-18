@@ -1,5 +1,5 @@
 # CSS Playing Cards
-
+[Live Demo] (https://marouane3878.github.io/pure-css-cards/)
 A simple playing cards UI built using pure HTML and CSS.  
 This project demonstrates Flexbox layout, basic styling, and hover interactions without any JavaScript.
 
